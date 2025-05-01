@@ -1,1 +1,1 @@
-# tugas CV HTML KU
+# tugas HTML KU
